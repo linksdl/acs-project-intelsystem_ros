@@ -1,5 +1,0 @@
-This book does not have code in chapter 1
-
-What you need for this book
-This book was written with the intention that almost everybody can follow it and run the source code examples provided with it. Basically, you need a computer with a Linux distribution. Although any Linux distribution should be fne, it is recommended that you use a version of Ubuntu 16.04 LTS. Then, you will use ROS Kinetic, which is installed according to the instructions given in Chapter 1, Getting Started with ROS.
-As regards the hardware requirements of your computer, in general, any computer or laptop is enough. However, it is advisable to use a dedicated graphics card in order to run the Gazebo simulator. Also, it will be good to have a good number of peripherals so that you can connect several sensors and actuators, including cameras and Arduino boards. You will also need Git (the git-core Debian package) in order to clone the repository with the source code provided with this book. Similarly, you are expected to have a basic knowledge of the Bash command line, GNU/Linux tools, and some C/C++ programming skills.
